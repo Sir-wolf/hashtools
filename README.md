@@ -1,5 +1,5 @@
 # hashtools
-![SHA256](https://images.ctfassets.net/9ijwdiuuvngh/5K4AedH960A824yg6CQyCi/8b3ee8ad5e63e6d50f78b9d7aa749669/Header_Encryption.png "SHA256")
+![](https://media2.giphy.com/media/eK1U9Um7E4vrTOXL2T/giphy.gif)
 ## introduction:
 > A tool, to *secure* your files with **SHA256** ciphers easily!
 
